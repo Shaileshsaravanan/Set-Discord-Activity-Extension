@@ -2,7 +2,7 @@
 Set "Playing", "Streaming", "Listening to" &amp; "Watching" in Discord to whatever you want. 
 It even has a YouTube, Plex, and SoundCloud integration, so you can automatically share what you're watching/listening to on those platforms.
 
-#Installation
+# Installation
 Loading an unpacked extension
 
 The directory holding the manifest file can be added as an extension in developer mode in its current state. To load an unpacked extension in developer mode, follow these steps:
