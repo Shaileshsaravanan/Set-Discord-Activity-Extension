@@ -1,0 +1,95 @@
+body
+{
+	width: 400px; 
+	background: #FEFFFE; 
+	color:black;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 7px;
+}
+
+button
+{
+	border: 5px solid  #4169e1;
+	background:  #4169e1;
+    font-family: 'Poppins', sans-serif;
+	color: white;
+    border-radius: 7px;
+}
+
+#type
+{
+	width:50px
+	border: 5px solid  #4169e1;
+	background:  #4169e1;
+	color: white;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 7px;
+}
+
+#name
+{
+	width: 292px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 7px;
+    color:  #4169e1;
+}
+
+#streamurl, #details, #state
+{
+	width: 395px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 7px;
+}
+
+#state.withparty
+{
+	width: 308px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 7px;
+}
+
+#source
+{
+	border: 5px solid  #4169e1;
+	background:  #4169e1;
+	color: white;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 7px;
+}
+
+input[type="number"]
+{
+	width: 32px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 7px;
+}
+
+.hidden
+{
+	display: none;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 7px;
+}
+
+::placeholder
+{
+	color:  #4169e1;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 7px;
+}
+
+input
+{
+	background: transparent;
+	color:  #4169e1;
+	border: 1px solid  #4169e1;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 7px;
+}
+
+a
+{
+	color:  #4169e1;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 7px;
+}
