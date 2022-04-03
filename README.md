@@ -1,9 +1,9 @@
-# Set-Discord-Activity-Extension ![image](https://user-images.githubusercontent.com/77380733/160087770-9bc81d00-e6d9-4d88-be83-ae9484815438.png)
+# Set-Discord-Activity-Extension
 
 Set "Playing", "Streaming", "Listening to" &amp; "Watching" in Discord to whatever you want.
 It even has a YouTube, Plex, and SoundCloud integration, so you can automatically share what you're watching/listening to on those platforms.
 
-# Installation ![image](https://user-images.githubusercontent.com/77380733/160087887-4a5639d7-87b2-4684-9e9b-f4d82c4e9989.png)
+# Installation
 
 Loading an unpacked extension
 
